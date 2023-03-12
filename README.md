@@ -2,7 +2,7 @@
   <br>
   <a href="https://instagram.com/weblax.ir"><img src="./logo.png" alt="mohammad hosein sayadi" width="200"></a>
   <br>
-  Mohammadd hosein sayadi {" mr.default "}
+  Mohammadd hosein sayadi {mr.default}
 </h1>
 <h4 align="center">I am Mohammad Hussain sayadi, a young developer, who would like to call me mr.default</h4>
 {"Things I experienced"}
