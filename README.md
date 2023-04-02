@@ -15,7 +15,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/python-%76cc45.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="java" src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="java" src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 {"keep in touch with me"}
 <p>
